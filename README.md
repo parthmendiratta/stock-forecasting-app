@@ -18,7 +18,7 @@ A visually polished and interactive **Streamlit web app** that forecasts **Apple
 ## 🚀 Live Demo
 
 Check out the deployed app 👉  
-🌐 [Apple Stock Forecasting App – Streamlit](https://sentiment-analyzer-ysseww4ucvkuiywzgmrjsp-parthmendiratta.streamlit.app/)
+🌐 [Apple Stock Forecasting App – Streamlit](https://stock-forecasting-app-vcfos2fekk2flfywnkzcfn-parthmendiratta.streamlit.app/)
 
 ---
 
