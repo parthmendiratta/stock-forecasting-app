@@ -82,4 +82,4 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by **[Parth Mendiratta](https://www.linkedin.com/in/parthmendiratta)**
+Developed with ❤️ by **[Parth Mendiratta](https://www.linkedin.com/in/parth-mendiratta-66aa48305?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw4mOBgjQTmGySiPADkbxnA%3D%3D)**
